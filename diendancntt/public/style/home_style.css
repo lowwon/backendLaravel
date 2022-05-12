@@ -1,0 +1,315 @@
+*{
+                
+}
+.tieude{
+    margin-top: -35px;
+    position: absolute;
+    margin-left: 13%;
+    font-size: 20px;
+}
+.post{
+    padding: 0px;
+    margin: 0px;
+    margin-top: -44px;
+    margin-right: 18.3%;
+    float: right;
+}
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color : white;
+}
+.a{
+    background-color: black;
+    text-align: center;
+    height: 30px;
+    font-size: 20px;
+    border:1px solid gray;
+    color: white;
+}
+.s{
+    background-color: black;
+    border:2px solid gray;
+    margin: 0px;
+
+}
+
+.dangbai1{
+    display: inline-block;
+}
+.dangbai2{
+    padding-top: 10px;
+    margin-left:14%;
+    margin-right: 16%;
+}
+.ss{
+    margin-left:14%;
+    margin-right:10%;
+    margin-top:50px
+}
+.quantri1{
+    
+    margin-left:7%;
+    margin-top:30px;
+}
+.quantri2{
+    background: linear-gradient(to right, #f3ff48, #ff9191,#f3ff48);
+    font-size: 20px;
+    line-height: 50px;
+    display: inline-block;
+    text-align: center; 
+    background-color: rgb(194, 101, 194);
+    height: 50px;
+    margin-bottom: 10px;
+    border-radius: 5px 5px 5px 5px;
+}
+.quantri3{
+    background: linear-gradient(to right, #bda5ff, #ff9eef);
+    font-size: 15px;
+    display: inline-block;
+    text-align: center; 
+    background-color: rgb(112, 167, 240);
+    height: 60px;
+    font-size:20px;
+    border-bottom: 2px solid white;
+    border-radius: 5px 5px 5px 5px;
+}
+.quantri4{
+    margin-left:7%;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(to right, #9ef0ff, #f7b1f7,#b1f6ff);
+    margin-left: 40px;
+    margin-bottom: 35px;
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    font-size: 25px;
+    color: black
+}
+.box:hover{
+    transition: 0.4s;
+    width: 190px;
+    height: 190px;
+    margin-left: 20px;
+    margin-right: -20px;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.guess{
+    display: inline-block;
+    border-radius: 5px 5px 5px 5px;
+    float: right;
+    margin-right: 70px;
+}
+.imginfo{
+    border: 5px soild black; 
+    margin-bottom: 40px; 
+    border-radius: 50px 50px 50px 50px; 
+    display: inline-block
+}
+.avt{
+    float: right;
+    display: inline-block;
+    width: 30px;
+    height:30px;
+}
+.mainacc{
+    font-size: 30px;
+    margin-left: 10%;
+     margin-top: 70px
+}
+.setaccount{
+    font-size: 30px;
+    margin-left: 10%;
+     margin-top: 70px
+}
+.choseimg{
+    margin-left: 40px; 
+    margin-top:-50px; 
+    font-size: 20px;
+    border-radius :10px 10px 10px 10px;
+    background-color: black;
+    color:white; 
+    display: inline-block;  
+    cursor: pointer; 
+    padding : 6px 7px
+}
+.labelchoseimg{
+    margin-top:-50px;  
+    font-size: 20px;
+    border-radius :10px 10px 10px 10px; 
+    background-color: black;
+    color:white; 
+    display: inline-block;  
+    cursor: pointer; 
+    padding : 6px 7px;
+}
+.contenttb{
+    border-radius: 5px 5px 5px 5px ;
+    margin-left: 30%; 
+    margin-top:20px;
+    background: linear-gradient(to right, #e2ddf0, #a9ff9e);
+}
+.bttb{
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 10px 10px 10px 10px;
+    background: linear-gradient(to right, #ffabf1, #fdff9e);
+    color:black
+}
+.deletetb{
+    float: right;
+    margin-right: 20px;
+    display: inline;
+    font-size: 20px;
+    margin-top: 25px
+}
+.noidungtb{
+    position: static;
+    margin: 20px;
+    font-size: 20px
+}
+.seentb{
+    float: right;
+    margin-top: 5px; 
+    margin-right: 10px
+}
+#timkiem{
+    float: right;
+    display: inline-block;
+    margin-top: 10px;
+}
+#searchtext{
+    display: none;
+    border-radius: 10px 10px 10px 10px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 0px;
+}
+.notibox{
+    float: right;
+    font-size: 17px; 
+    border-radius:15px 15px 15px 15px; 
+    position: relative;
+    display: none; 
+    width: 300px; 
+    max-height: 580px; 
+    margin-top: 20px;
+    background: linear-gradient(to right, #e2ddf0, #a9ff9e);
+}
+.searchbox{
+    margin-top : -50px;
+    margin-right:25%;
+    float : right; 
+    width: 400px;
+    height: 10px; 
+    position: relative;
+}
+.noti{
+    margin-top : -45px;
+    margin-right:1%;
+    float : right; 
+    width: 40px;
+    height: 20px;
+}
+.noti1{
+    margin-top : 10px;
+    margin-right:1%;
+    float : right;
+     width: 40px;
+     height: 20px;
+}
+.imgnoti{
+    float: right;
+    display: inline-block;
+    width: 30px;
+    height:30px;
+}
+.tt1{
+    background-color:gold; margin-bottom: 20px;
+}
+.tt2{
+    background-color:gold; margin-left: 1px;
+}
+.deleteuser{
+    margin-top: -5px;
+    background: linear-gradient(to right, #ff2f39, #680000c0);
+     color: #ffffff;
+}
+.save{
+    margin-top: -5px;background: linear-gradient(to right, #928401, #ffee00c0)
+}
+.textbinhluan{
+    width:100%; height : 100px; border-radius: 5px 5px 5px 5px;
+}
+.avatarpost{
+    display: inline-block; border-radius: 5px 5px 5px 5px;margin-left: 10px;margin-top: -10px;
+}
+.datepost{
+    font-size: 20px;float: right; margin-top: 17px; display: inline;
+}
+.commentbox{
+    margin-top : 10px;
+    padding-bottom : 25px;
+    font-size: 25px;
+    height: auto; 
+    border: 2px solid gray;
+    border-radius: 5px 5px 5px 5px;
+}
+.imgcomment{
+    display: inline-block; 
+    border-radius: 5px 5px 5px 5px;
+    margin-right: 5px;
+    margin-top: -5px;
+}
+.usercomment{
+    display: inline-block; 
+    font-size: 20px; 
+    margin-top: 10px; 
+    color:rgb(7, 96, 122);
+}
+.datecomment{
+    display: inline-block; 
+    float: right;
+    margin-top: 10px;
+}
+.cmtcontent{
+    font-size: 20px;
+     margin-left: 35px;
+     margin-top: 20px
+}
+.subcmtbox{
+    display: none ;
+    margin-top : 30px;
+    margin-left: 55px; 
+    margin-bottom: 50px
+}
+.errsubcmt{
+    font-size: 18px; color:red; margin-top: -15;margin-bottom: 5px;
+}
+.textscmt{
+    width: 98.5%; height: 100px; border-radius: 5px 5px 5px 5px;
+}
+.avtscmt{
+    display: inline-block;
+    border-radius: 5px 5px 5px 5px; 
+    margin-left: 75px;
+    margin-right: 5px;
+    margin-top: 5px
+}
+.namescmt{
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 10px;
+     color:rgb(160, 24, 47)
+}
+.tbdb{
+    margin-top : 1%;
+    margin-right:1%;
+     margin-bottom : -3%;  
+     float : right; 
+     width: 40px;
+     height: 20px;
+}
